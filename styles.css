@@ -1,0 +1,33 @@
+.bluepic{
+   height:50px; 
+}
+.redB{
+    height:30px;
+}
+.hover{
+   display: flex;
+   justify-content: flex-end;
+}
+.maze{
+    display:flex;
+    justify-content:flex-end;
+    margin-top:90px;
+    margin-left:0px;
+}
+body{
+    background-color:black;
+    color:white;
+}
+.click{
+    width:75px;
+    margin-top:460px;
+}
+.question{
+    color:white;
+}
+.dog{
+    height:700px;
+}
+.pg5{
+    color:yellow;
+}
